@@ -1,5 +1,5 @@
 # Update CSS Variables with JS
-Project completed for the 30 day vanilla JS coding challenge. Simply a clock to show the current time.
+Project completed for the 30 day vanilla JS coding challenge. Putting sliders and selector on page to manipulate the images styling.
 
 ## License
 This project is licensed under the Apache License - see the LICENSE file for details
